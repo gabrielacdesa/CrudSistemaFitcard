@@ -1,0 +1,217 @@
+﻿@model  CrudSistemaFitcard.Models.Estabelecimentos
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+
+<!-- Topo -->
+<div class="topo">
+    <div class="container">
+        <div class="row">
+            <h1>Cadastro de Estabelecimentos</h1>
+            <p>Para adicionar um estabelecimento clique abaixo em Novo Cadastro</p>
+        </div>
+    </div>
+</div>
+
+<!-- Formulário -->
+<div class="container">
+    <form action="/CRUD/Index" method="post" name="formulario">
+        <div class="form-group">
+
+            <div class="principal">
+
+
+                <br />
+
+                <div class="row">
+
+                    <button type="submit" name="cbutton" class="botao-adicionar" value="AddNew" @ViewBag.addnewbutton>Novo Cadastro</button>&nbsp;
+                    <font color="GREEN">@ViewBag.updateresult</font>
+
+                    <h4>*Se desejar consultar se o CNPJ já está cadastrado, digite e clique em Buscar antes de criar um novo formulário.</h4>
+
+
+                </div>
+
+                <br />
+
+                <hr />
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <label for="lblCNPJ">CNPJ</label>
+                        <input type="text" name="cnpj" class="form-control" id="cnpj" placeholder="CNPJ" value="@Model.cnpj">
+                        <label for="lblAviso">(14 caracteres) - Não digitar a pontuação </label>
+                    </div>
+
+                 
+
+                    <!--Botão para pesquisar o CNPJ-->
+                    <div class="row">
+
+
+                        <button type="submit" name="cbutton" class="botao-buscar" value="Search" @ViewBag.searchbutton>Buscar</button>
+
+                        <font color="RED">@ViewBag.searchresult</font>
+
+                    </div>
+
+
+                </div>
+                <br />
+                <br />
+
+                <div class="row">
+                    <h4>Informações Legais</h4>
+                    <hr>
+                    <div class="col-md-4">
+                        <label for="lblRazaoSocial">Razão Social</label>
+                        <input type="text" name="razao_social" class="form-control" id="razao_social" placeholder="Razão Social" value="@Model.razao_social">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="lblNomeFantasia">Nome Fantasia</label>
+                        <input type="text" name="nome_fantasia" class="form-control" id="nome_fantasia" placeholder="Nome Fantasia" value="@Model.nome_fantasia">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="lblCategoria">Categoria</label>
+                        <input type="text" name="categoria" class="form-control" id="categoria" placeholder="Categoria" value="@Model.categoria">
+                    </div>
+                </div>
+                <br />
+                <br />
+
+                <div class="row">
+                    <h4>Localização</h4>
+                    <hr>
+
+                    <div class="col-md-4">
+                        <label for="lblEndereco">Endereço</label>
+                        <input type="text" name="endereco" class="form-control" id="endereco" placeholder="Endereço" value="@Model.endereco">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="lblCidade">Cidade</label>
+                        <input type="text" name="cidade" class="form-control" id="cidade" placeholder="Cidade" value="@Model.cidade">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="lblEstado">Estado</label>
+                        <input type="text" name="estado" class="form-control" id="estado" placeholder="Estado" value="@Model.estado">
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row">
+                    <h4>Contato e Informações Bancárias</h4>
+                    <hr>
+
+                    <div class="col-md-4">
+                        <label for="lblEmail">Email</label>
+                        <input type="email" onblur="validarEmail()" onfocus="redefinirMsg()" name="email" class="form-control" id="email" placeholder="Email" value="@Model.email">
+                        <span id="error-email"></span>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="lblTelefone">Telefone</label>
+                        <input type="text" name="telefone" class="form-control" id="telefone" placeholder="Telefone" value="@Model.telefone">
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-4">
+                        <label for="lblAgencia">Agência</label>
+                        <input type="text" name="agencia" class="form-control" id="agencia" placeholder="Agência" value="@Model.agencia">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="lblConta">Conta</label>
+                        <input type="text" name="conta" class="form-control" id="conta" placeholder="Conta" value="@Model.conta">
+                    </div>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="row">
+                    <h4>Observações</h4>
+                    <hr>
+                    <div class="col-md-4">
+                        <label for="lblDataCadastro">Data Cadastro</label>
+                        <input type="text" name="data_cadastro" class="form-control" id="data_cadastro" placeholder="Data Cadastro" value="@Model.data_cadastro">
+
+                    </div>
+                    <div class="col-md-4">
+                        <label for="lblStatus">Status</label>
+                        <input type="text" name="status" class="form-control" id="status" placeholder="Status" value="@Model.status">
+                    </div>
+                </div>
+
+                <br />
+                <br />
+
+                <!--Botões ao final do formulário-->
+                <div class="row">
+
+                    <button type="submit" name="cbutton" class="btn btn-success" value="Save" @ViewBag.savebutton>Cadastrar</button>&nbsp&nbsp
+                    <button type="submit" name="cbutton" class="btn btn-success" value="Update" @ViewBag.updatebutton>Alterar</button>&nbsp&nbsp
+                    <button type="submit" name="cbutton" class="btn btn-danger" value="Delete" @ViewBag.Deletebutton>Deletar</button>&nbsp&nbsp
+                    <button type="submit" name="cbutton" class="btn btn-link" value="Cancel" @ViewBag.cancelbutton>Cancelar</button>&nbsp&nbsp
+
+                    <br />
+
+                </div>
+
+            </div>
+        </div>
+
+    </form>
+</div>
+
+<!--Scripts para criação de Máscaras-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
+
+
+<script type="text/javascript">
+
+        // Função jQuery para máscaras dos campos Data, Telefone, Agencia, Conta
+        jQuery(function ($) {
+            $("#data_cadastro").mask("99/99/9999", { placeholder: "dd/mm/aaaa" });
+            $("#telefone").mask("(99) 9999-9999");
+            $("#agencia").mask("999-9");
+            $("#conta").mask("99.999-9");
+            //$("#InputCNPJ").mask("99.999.999/9999-99"); - erro no banco de dados
+
+        });
+
+
+        // Função de validação de email
+        function validarEmail() {
+            var email = document.querySelector('#email');
+            var error = document.querySelector('#error-email');
+
+            if (!email.checkValidity()) {
+                error.innerHTML = "";
+            }
+        }
+
+    //Validação do Campo Razão Social - erro  (fazendo o input no banco antes do usuário inserir o campo Razão Social)
+    //function validar() {
+
+        //var razao_social = document.formulario.razao_social.value;
+
+        //if (razao_social == "") {
+         //   alert('O campo razão social é obrigatório');
+           // document.formulario.razao_social.focus();
+            //razao_social.preventDefault();
+            //return false;
+        //}
+     //}
+
+
+</script>

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Cadastro de Estabelecimentos</title>
+    <!--<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />-->
+    <link href="~/Content/styles.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+
+   
+</head>
+<body>
+
+    <!-- Navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Faça seu cadastro", "Index", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="body-content">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="foot">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <ul>
+                            <li>Criado em ASP.NET/C# utilizando arquitetura MVC e Banco de Dados SQL Server</li>
+                        </ul>
+
+                        <ul>
+                            <li>Frontend em Bootrstrap e JS</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       
+        <div class="row" style="text-align:center">
+            <h4>&copy; @DateTime.Now.Year - Cadastro de Estabelecimentos</h4>
+        </div>
+       
+    </footer>
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+﻿@model  CrudSistemaFitcard.Models.Estabelecimentos
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sistema de Cadastro</title>
+</head>
+<body>
+    <h1>Sistema de Cadastro</h1>
+    <h4>Cadastro de Estabelecimentos</h4>
+    <div>
+        <form action="/CRUD/Index" method="post">
+            <table border="1" width="500" height="300" bgcolor="yellow">
+                <tr>
+                    <td>CNPJ</td>
+                    <td><input type="text" name="cnpj" value="@Model.cnpj" />&nbsp&nbsp&nbsp<input type="submit" name="cbutton" value="Search" @ViewBag.searchbutton /><br /><font color="RED">@ViewBag.searchresult</font></td>
+
+
+                </tr>
+                <tr>
+                    <td>Razão Social</td>
+                    <td><input type="text" name="razao_social" value="@Model.razao_social" /></td>
+                </tr>
+                <tr>
+                    <td>Nome Fantasia</td>
+                    <td><input type="text" name="nome_fantasia" value="@Model.nome_fantasia" /></td>
+                </tr>
+                <tr>
+                    <td>E-mail</td>
+                    <td><input type="text" name="email" value="@Model.email" /></td>
+                </tr>
+
+                <tr>
+                    <td>Endereço</td>
+                    <td><input type="text" name="endereco" value="@Model.endereco" /></td>
+                </tr>
+
+                <tr>
+                    <td>Cidade</td>
+                    <td><input type="text" name="cidade" value="@Model.cidade" /></td>
+                </tr>
+
+                <tr>
+                    <td>Estado</td>
+                    <td><input type="text" name="estado" value="@Model.estado" /></td>
+                </tr>
+
+                <tr>
+                    <td>Telefone</td>
+                    <td><input type="text" name="telefone" value="@Model.telefone" /></td>
+                </tr>
+
+                <tr>
+                    <td>Data Cadastro</td>
+                    <td><input type="text" name="data_cadastro" value="@Model.data_cadastro" /></td>
+                </tr>
+
+                <tr>
+                    <td>Status</td>
+                    <td><input type="text" name="status" value="@Model.status" /></td>
+                </tr>
+
+
+
+                <tr>
+                    <td>Agência</td>
+                    <td><input type="text" name="agencia" value="@Model.agencia" /></td>
+                </tr>
+
+                <tr>
+                    <td>Conta</td>
+                    <td><input type="text" name="conta" value="@Model.conta" /></td>
+                </tr>
+
+                <tr>
+
+                    <td colspan="2">
+                        <input type="submit" name="cbutton" value="AddNew" @ViewBag.addnewbutton />&nbsp&nbsp
+                        <input type="submit" name="cbutton" value="Save" @ViewBag.savebutton />&nbsp&nbsp
+                        <input type="submit" name="cbutton" value="Update" @ViewBag.updatebutton />&nbsp&nbsp
+                        <input type="submit" name="cbutton" value="Delete" @ViewBag.Deletebutton />&nbsp&nbsp
+                        <input type="submit" name="cbutton" value="Cancel" @ViewBag.cancelbutton />
+                        <br />
+                        <font color="GREEN">@ViewBag.updateresult</font>
+                    </td>
+                </tr>
+
+            </table>
+
+        </form>
+    </div>
+</body>
+</html>

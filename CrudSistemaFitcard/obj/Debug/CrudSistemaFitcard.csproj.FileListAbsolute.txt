@@ -1,0 +1,375 @@
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll.config
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.pdb
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe.config
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.rsp
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe.config
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.rsp
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.AppContext.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Console.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Claims.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe.config
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.rsp
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CopyComplete
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\FITCARD\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.pdb
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll.config
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.pdb
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe.config
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.rsp
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe.config
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.rsp
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.AppContext.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Console.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe.config
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.rsp
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csprojAssemblyReference.cache
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CopyComplete
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.dll
+C:\Users\Gabriela\Desktop\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.pdb
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll.config
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.pdb
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe.config
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.rsp
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe.config
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.rsp
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.AppContext.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Collections.Immutable.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Console.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Compression.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Reflection.Metadata.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.AccessControl.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Claims.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.ValueTuple.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe.config
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.rsp
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe.config
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.Web.Infrastructure.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Razor.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csprojAssemblyReference.cache
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CoreCompileInputs.cache
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CopyComplete
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.dll
+E:\Arquivos Teste\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.pdb
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll.config
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.pdb
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe.config
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.rsp
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe.config
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.rsp
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.AppContext.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Console.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Claims.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe.config
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.rsp
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CopyComplete
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\FOTOS CRACHÁS\Outros\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.pdb
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll.config
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\CrudSistemaFitcard.pdb
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.exe.config
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csc.rsp
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.exe.config
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\csi.rsp
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.AppContext.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Console.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Compression.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Claims.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.ValueTuple.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.exe.config
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\vbc.rsp
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Razor.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Webpages.Razor.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Helpers.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\System.Web.Mvc.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.csproj.CopyComplete
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.dll
+C:\Users\gabri\Desktop\workspace\CrudSistemaFitcard\CrudSistemaFitcard\obj\Debug\CrudSistemaFitcard.pdb

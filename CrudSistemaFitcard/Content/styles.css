@@ -1,0 +1,49 @@
+﻿
+/* Estilos body */
+body h1, p{
+    color:#fff;
+}
+
+body .topo {
+    background: #262626;
+    padding: 50px;
+}
+
+
+/* Estilo botões */
+body .botao-adicionar, .botao-buscar {
+    background: #C91F37;
+    color: #fff;
+    border: none;
+    font-size: large;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+/* Estilo footer */
+footer .foot {
+    background: #C91F37;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    color: #ffffff;
+  
+}
+
+/* Estilo para validação */
+input:invalid{
+    border-color: crimson;
+    box-shadow: 0px 0px 3px crimson;
+}
+
+input:focus{
+    outline: none;
+}
+
+input:focus:invalid{
+    box-shadow: none;
+}
+
+span{
+    color: crimson;
+}
+
